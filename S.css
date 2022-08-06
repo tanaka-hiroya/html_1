@@ -49,6 +49,12 @@ img {
     list-style:none;
 }
 
+.main{
+    margin-left:auto;    /* 左側マージンを自動的に空ける */
+     margin-right:auto;   /* 右側マージンを自動的に空ける */
+     text-align:left;     /* 中身を左側表示に戻す */
+     width:1500px; 
+}
 .main-nav li {
     margin-left:40px;
 }
